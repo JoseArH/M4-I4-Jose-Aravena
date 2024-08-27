@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b8caf2;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #212455;
+}
+.pokemon-card {
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: 20px;
+}
+.pokemon-image {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+h2 {
+    color: #555;
+    margin: 10px 0;
+}
+p {
+    color: #666;
+    margin: 5px 0;
+}
